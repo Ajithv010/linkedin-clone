@@ -1,4 +1,4 @@
-# linkedin clone 
+## linkedin clone 
 
 # How to Download and Extract
 
@@ -7,10 +7,10 @@
 3. Select **Extract All…** and unzip it.
 4. Open the extracted folder.
 
-5. ## How to Run the Backend
+5. # How to Run the Backend
 
 
-# Open terminal / command prompt
+## Open terminal / command prompt
 cd backend
 
 # Install dependencies
@@ -31,7 +31,7 @@ npm install   # or yarn install
 # Start the frontend
 npm run dev     
 
-# Technologies Used
+## Technologies Used
 
 # Frontend
 - React.js / HTML / CSS / JavaScript
@@ -46,7 +46,7 @@ npm run dev
 
 
 
-# Features of the Project
+## Features of the Project
 
  **User Authentication** (Login / Signup) 
  **Data stored and fetched from database**  
