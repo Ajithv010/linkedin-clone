@@ -7,7 +7,7 @@
 3. Select **Extract All…** and unzip it.
 4. Open the extracted folder.
 
-5. # How to Run the Backend
+   # How to Run the Backend
 
 
 ## Open terminal / command prompt
